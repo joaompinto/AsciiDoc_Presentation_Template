@@ -1,0 +1,14 @@
+section[data-state="justified"] p {
+    text-align:  justify;
+}
+
+section[data-state="left"] p {
+    text-align:  left;
+}
+
+
+.reveal section img {
+  background:none; 
+  border:none; 
+  box-shadow:none;
+  }
